@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Project-Wanderlust
 
@@ -25,3 +26,7 @@
 
 
 
+=======
+# RoamAbode
+This MERN-based full-stack project focuses on creating a global hotel directory, making it easy for users to find and access accommodations in various cities worldwide, streamlining vacation planning.
+>>>>>>> cbb8b9e631e427da51b6e680e2e5980fff8e2a22
