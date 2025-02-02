@@ -1,32 +1,66 @@
-<<<<<<< HEAD
+# RoamAbode - Global Hotel & Vacation Guide
 
-# Project-Wanderlust
+## Project Overview
 
- This project was created from local system
- It's a Full Stack Project based on MERN Development.  This project buliding idea is to list the hotels of different cities globally so that it can easily accessible to    
- your vacation place.
- 
-#  Frontend:
- HTML5 / CSS3 / JAVA SCRIPT
+RoamAbode is a full-stack MERN (MongoDB, Express.js, React, Node.js) application designed to simplify vacation planning by providing a comprehensive directory of hotels and popular places to visit across different cities worldwide.
 
-# Backend:
-1. NODE.JS
-2. EXPRESS.JS
+## Features
 
-# Database:
-1. MONGO-DB
+- **Hotel Listings**: Browse hotels globally based on city and preferences.
+- **Vacation Spots**: Discover must-visit attractions in different destinations.
+- **User Reviews & Ratings**: Get insights from real travelers.
+- **Filtering & Search**: Advanced search for accommodations based on price, rating, and amenities.
+- **Secure Authentication**: User login/signup for personalized experiences.
+- **Real-time Data Fetching**: Dynamic hotel and location updates using REST APIs and AJAX.
 
-# Framework
-1. BOOTSTRAP
+## Tech Stack
 
-# Other
-  This project also have implemented with  MVC Freamwork / REST API'S / AJAX / 
+### Frontend:
 
-  
+- HTML5 / CSS3
+- JavaScript
+- React.js
+- Bootstrap (for responsive UI)
 
+### Backend:
 
+- Node.js
+- Express.js
 
-=======
-# RoamAbode
-This MERN-based full-stack project focuses on creating a global hotel directory, making it easy for users to find and access accommodations in various cities worldwide, streamlining vacation planning.
->>>>>>> cbb8b9e631e427da51b6e680e2e5980fff8e2a22
+### Database:
+
+- MongoDB
+
+### Additional Implementations:
+
+- MVC Framework
+- REST APIs
+- AJAX
+
+## Installation & Setup
+
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/RoamAbode.git
+   cd RoamAbode
+   ```
+2. Install dependencies for both frontend and backend:
+   ```sh
+   npm install
+   ```
+3. Start the server:
+   ```sh
+   npm start
+   ```
+4. Open your browser and navigate to:
+   ```sh
+   http://localhost:3000
+   ```
+
+## Contribution
+
+We welcome contributions! Feel free to submit issues or pull requests to improve the project.
+
+## License
+
+This project is licensed under the MIT License
